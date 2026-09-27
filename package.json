@@ -1,0 +1,13 @@
+{
+  "name": "oloaneshark-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.2.10",
+    "typescript": "^5.5.4"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/now-playing.ts": {
+      "maxDuration": 10
+    }
+  }
+}
