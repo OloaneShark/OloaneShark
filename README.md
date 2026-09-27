@@ -26,7 +26,6 @@
       <img src="./assets/phone.png" width="128" alt="Pixel phone placeholder">
     </td>
     <td width="560" valign="top">
-      <img src="./assets/layout-spacer.png" width="560" height="1" alt=""><br>
       <code>NEW MESSAGE [1/4]</code>
       <br><br>
       My name is Dennis.<br>
@@ -54,33 +53,21 @@
 </div>
 <table width="100%">
   <tr>
-    <td width="50%" valign="middle">
-      <table width="100%">
-        <tr>
-          <td width="90" align="center" valign="middle">
-            <img src="./assets/cassettes/current-blacklight.png" width="72" alt="Project Blacklight cassette artwork">
-          </td>
-          <td valign="middle">
-            <strong><a href="https://github.com/OloaneShark/Project_Blacklight">Project Blacklight</a></strong>
-            <br><br>
-            Open-source security tooling built around modular and deterministic security checks.
-          </td>
-        </tr>
-      </table>
+    <td width="80" align="center" valign="middle">
+      <img src="./assets/cassettes/current-blacklight.png" width="72" alt="Project Blacklight cassette artwork">
     </td>
-    <td width="50%" valign="middle">
-      <table width="100%">
-        <tr>
-          <td width="90" align="center" valign="middle">
-            <img src="./assets/cassettes/current-middleman.png" width="72" alt="Middle Man cassette artwork">
-          </td>
-          <td valign="middle">
-            <strong><a href="https://github.com/OloaneShark/Middle_Man">Middle Man</a></strong>
-            <br><br>
-            Systems experimentation involving scheduling, resource allocation, and inference infrastructure.
-          </td>
-        </tr>
-      </table>
+    <td width="330" valign="middle">
+      <strong><a href="https://github.com/OloaneShark/Project_Blacklight">Project Blacklight</a></strong><br>
+      Open-source security tooling built around<br>
+      modular and deterministic security checks.
+    </td>
+    <td width="80" align="center" valign="middle">
+      <img src="./assets/cassettes/current-middleman.png" width="72" alt="Middle Man cassette artwork">
+    </td>
+    <td width="330" valign="middle">
+      <strong><a href="https://github.com/OloaneShark/Middle_Man">Middle Man</a></strong><br>
+      Systems experimentation involving scheduling,<br>
+      resource allocation, and inference infrastructure.
     </td>
   </tr>
 </table>
@@ -94,16 +81,22 @@
 </div>
 <table width="100%">
   <tr>
-    <td width="180" valign="middle"><strong>Languages</strong></td>
-    <td width="620" valign="middle">Python &middot; TypeScript &middot; JavaScript &middot; SQL</td>
+    <td width="22%" valign="middle"><strong>Languages</strong></td>
+    <td width="78%" valign="middle">
+      Python &middot; TypeScript &middot; JavaScript &middot; SQL
+    </td>
   </tr>
   <tr>
-    <td width="180" valign="middle"><strong>Cloud</strong></td>
-    <td width="620" valign="middle">AWS <img src="./assets/layout-spacer.png" width="620" height="1" alt=""></td>
+    <td width="22%" valign="middle"><strong>Cloud</strong></td>
+    <td width="78%" valign="middle">
+      AWS
+    </td>
   </tr>
   <tr>
-    <td width="180" valign="middle"><strong>Infrastructure</strong></td>
-    <td width="620" valign="middle">Docker &middot; Linux &middot; PostgreSQL &middot; Git</td>
+    <td width="22%" valign="middle"><strong>Infrastructure</strong></td>
+    <td width="78%" valign="middle">
+      Docker &middot; Linux &middot; PostgreSQL &middot; Git
+    </td>
   </tr>
 </table>
 
