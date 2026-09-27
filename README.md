@@ -30,9 +30,10 @@
       <br><br>
       My name is Dennis.<br>
       I build software around backend systems,<br>
-      cloud infrastructure, security and automation.
+      cloud infrastructure, security and automation.<br>
+      Need a job done?<br>
+      I can make it happen.<br>
       <br><br>
-      I do jobs at night.
     </td>
     <td width="120" valign="top">
       <code>&gt; PLAY</code><br>
