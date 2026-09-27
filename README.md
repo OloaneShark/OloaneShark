@@ -25,17 +25,15 @@
     <td width="140" align="center" valign="middle">
       <img src="./assets/phone.png" width="128" alt="Pixel phone placeholder">
     </td>
-    <td width="560" valign="top">
-      <code>NEW MESSAGE [1/4]</code>
-      <br><br>
+    <td width="560" valign="middle">
+      <code>NEW MESSAGE [1/4]</code><br>
       My name is Dennis.<br>
       I build software around backend systems,<br>
       cloud infrastructure, security and automation.<br>
       Need a job done?<br>
-      I can make it happen.<br>
-      <br><br>
+      I can make it happen.
     </td>
-    <td width="120" valign="top">
+    <td width="120" valign="middle">
       <code>&gt; PLAY</code><br>
       <code>REWIND</code><br>
       <code>FORWARD</code><br>
