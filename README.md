@@ -53,7 +53,7 @@
 <table width="100%">
   <tr>
     <td width="80" align="center" valign="middle">
-      <img src="./assets/cassettes/current-blacklight.png" width="72" alt="Project Blacklight cassette artwork">
+      <img src="./assets/cassettes/current-blacklight.png" width="78" alt="Project Blacklight cassette artwork">
     </td>
     <td width="330" valign="middle">
       <strong><a href="https://github.com/OloaneShark/Project_Blacklight">Project Blacklight</a></strong><br>
@@ -61,7 +61,7 @@
       modular and deterministic security checks.
     </td>
     <td width="80" align="center" valign="middle">
-      <img src="./assets/cassettes/current-middleman.png" width="72" alt="Middle Man cassette artwork">
+      <img src="./assets/cassettes/current-middleman.png" width="78" alt="Middle Man cassette artwork">
     </td>
     <td width="330" valign="middle">
       <strong><a href="https://github.com/OloaneShark/Middle_Man">Middle Man</a></strong><br>
