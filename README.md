@@ -22,10 +22,10 @@
 </div>
 <table width="100%">
   <tr>
-    <td width="100" align="center" valign="middle">
-      <img src="./assets/phone.png" width="86" alt="Pixel phone placeholder">
+    <td width="140" align="center" valign="middle">
+      <img src="./assets/phone.png" width="128" alt="Pixel phone placeholder">
     </td>
-    <td width="580" valign="top">
+    <td width="560" valign="top">
       <img src="./assets/layout-spacer.png" width="560" height="1" alt=""><br>
       <code>NEW MESSAGE [1/4]</code>
       <br><br>
@@ -52,29 +52,35 @@
     alt="// FEATURED PROJECTS"
   >
 </div>
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="./assets/cassettes/current-blacklight.png" width="72" alt="Project Blacklight cassette artwork">
-      </p>
-      <h3 align="center">
-        <a href="https://github.com/OloaneShark/Project_Blacklight">Project Blacklight</a>
-      </h3>
-      <p>
-        Open-source security tooling built around modular and deterministic security checks.
-      </p>
+    <td width="50%" valign="middle">
+      <table width="100%">
+        <tr>
+          <td width="90" align="center" valign="middle">
+            <img src="./assets/cassettes/current-blacklight.png" width="72" alt="Project Blacklight cassette artwork">
+          </td>
+          <td valign="middle">
+            <strong><a href="https://github.com/OloaneShark/Project_Blacklight">Project Blacklight</a></strong>
+            <br><br>
+            Open-source security tooling built around modular and deterministic security checks.
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="./assets/cassettes/current-middleman.png" width="72" alt="Middle Man cassette artwork">
-      </p>
-      <h3 align="center">
-        <a href="https://github.com/OloaneShark/Middle_Man">Middle Man</a>
-      </h3>
-      <p>
-        Systems experimentation involving scheduling, resource allocation, and inference infrastructure.
-      </p>
+    <td width="50%" valign="middle">
+      <table width="100%">
+        <tr>
+          <td width="90" align="center" valign="middle">
+            <img src="./assets/cassettes/current-middleman.png" width="72" alt="Middle Man cassette artwork">
+          </td>
+          <td valign="middle">
+            <strong><a href="https://github.com/OloaneShark/Middle_Man">Middle Man</a></strong>
+            <br><br>
+            Systems experimentation involving scheduling, resource allocation, and inference infrastructure.
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -88,33 +94,18 @@
 </div>
 <table width="100%">
   <tr>
-    <td width="180"><strong>Languages</strong></td>
-    <td width="620">
-      <img src="./assets/layout-spacer.png" width="620" height="1" alt=""><br>
-      Python &middot; TypeScript &middot; JavaScript &middot; SQL
-    </td>
+    <td width="180" valign="middle"><strong>Languages</strong></td>
+    <td width="620" valign="middle">Python &middot; TypeScript &middot; JavaScript &middot; SQL</td>
   </tr>
   <tr>
-    <td width="180"><strong>Cloud</strong></td>
-    <td width="620">AWS</td>
+    <td width="180" valign="middle"><strong>Cloud</strong></td>
+    <td width="620" valign="middle">AWS <img src="./assets/layout-spacer.png" width="620" height="1" alt=""></td>
   </tr>
   <tr>
-    <td width="180"><strong>Infrastructure</strong></td>
-    <td width="620">Docker &middot; Linux &middot; PostgreSQL &middot; Git</td>
+    <td width="180" valign="middle"><strong>Infrastructure</strong></td>
+    <td width="620" valign="middle">Docker &middot; Linux &middot; PostgreSQL &middot; Git</td>
   </tr>
 </table>
-
-<div>
-  <img
-    src="./assets/headings/now-playing.png"
-    width="100%"
-    alt="// NOW PLAYING"
-  >
-</div>
-<!-- Replace YOUR-VERCEL-DOMAIN with your deployed Vercel domain. -->
-<a href="https://YOUR-VERCEL-DOMAIN.vercel.app/api/now-playing?open=1">
-  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/now-playing" width="450" alt="Now playing on Spotify">
-</a>
 
 <img
   src="https://komarev.com/ghpvc/?username=OloaneShark&label=Profile%20views&color=ff3131&style=flat"
