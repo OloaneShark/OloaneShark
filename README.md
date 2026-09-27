@@ -23,10 +23,11 @@
     <td>
       <code>NEW MESSAGE [1/4]</code>
       <br><br>
-      I'm Dennis.<br>
+      My name is Dennis.<br>
       I build software around backend systems,<br>
-      cloud infrastructure, security and automation.<br><br>
-      Most of my best ideas happen after dark.
+      cloud infrastructure, security and automation.
+      <br><br>
+      I do jobs at night.
     </td>
     <td width="120">
       <code>&gt; PLAY</code><br>
