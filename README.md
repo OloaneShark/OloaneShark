@@ -13,14 +13,20 @@
   level-select behavior would require an external webpage.
 -->
 
-<img src="./assets/headings/answering-machine.png" width="360" alt="// ANSWERING MACHINE">
-
+<div>
+  <img
+    src="./assets/headings/answering-machine.png"
+    width="100%"
+    alt="// ANSWERING MACHINE"
+  >
+</div>
 <table width="100%">
   <tr>
-    <td width="110" align="center" valign="middle">
+    <td width="100" align="center" valign="middle">
       <img src="./assets/phone.png" width="86" alt="Pixel phone placeholder">
     </td>
-    <td width="70%" valign="top">
+    <td width="580" valign="top">
+      <img src="./assets/layout-spacer.png" width="560" height="1" alt=""><br>
       <code>NEW MESSAGE [1/4]</code>
       <br><br>
       My name is Dennis.<br>
@@ -39,8 +45,13 @@
   </tr>
 </table>
 
-<img src="./assets/headings/featured-projects.png" width="360" alt="// FEATURED PROJECTS">
-
+<div>
+  <img
+    src="./assets/headings/featured-projects.png"
+    width="100%"
+    alt="// FEATURED PROJECTS"
+  >
+</div>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -68,25 +79,38 @@
   </tr>
 </table>
 
-<img src="./assets/headings/tech-stack.png" width="240" alt="// TECH STACK">
-
+<div>
+  <img
+    src="./assets/headings/tech-stack.png"
+    width="100%"
+    alt="// TECH STACK"
+  >
+</div>
 <table width="100%">
   <tr>
-    <td width="25%"><strong>Languages</strong></td>
-    <td width="75%">Python &middot; TypeScript &middot; JavaScript &middot; SQL</td>
+    <td width="180"><strong>Languages</strong></td>
+    <td width="620">
+      <img src="./assets/layout-spacer.png" width="620" height="1" alt=""><br>
+      Python &middot; TypeScript &middot; JavaScript &middot; SQL
+    </td>
   </tr>
   <tr>
-    <td width="25%"><strong>Cloud</strong></td>
-    <td width="75%">AWS</td>
+    <td width="180"><strong>Cloud</strong></td>
+    <td width="620">AWS</td>
   </tr>
   <tr>
-    <td width="25%"><strong>Infrastructure</strong></td>
-    <td width="75%">Docker &middot; Linux &middot; PostgreSQL &middot; Git</td>
+    <td width="180"><strong>Infrastructure</strong></td>
+    <td width="620">Docker &middot; Linux &middot; PostgreSQL &middot; Git</td>
   </tr>
 </table>
 
-<img src="./assets/headings/now-playing.png" width="270" alt="// NOW PLAYING">
-
+<div>
+  <img
+    src="./assets/headings/now-playing.png"
+    width="100%"
+    alt="// NOW PLAYING"
+  >
+</div>
 <!-- Replace YOUR-VERCEL-DOMAIN with your deployed Vercel domain. -->
 <a href="https://YOUR-VERCEL-DOMAIN.vercel.app/api/now-playing?open=1">
   <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/now-playing" width="450" alt="Now playing on Spotify">
