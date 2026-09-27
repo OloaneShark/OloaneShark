@@ -13,14 +13,14 @@
   level-select behavior would require an external webpage.
 -->
 
-### // ANSWERING MACHINE
+<img src="./assets/headings/answering-machine.png" width="360" alt="// ANSWERING MACHINE">
 
-<table>
+<table width="100%">
   <tr>
-    <td width="110" align="center">
+    <td width="110" align="center" valign="middle">
       <img src="./assets/phone.png" width="86" alt="Pixel phone placeholder">
     </td>
-    <td>
+    <td width="70%" valign="top">
       <code>NEW MESSAGE [1/4]</code>
       <br><br>
       My name is Dennis.<br>
@@ -29,7 +29,7 @@
       <br><br>
       I do jobs at night.
     </td>
-    <td width="120">
+    <td width="120" valign="top">
       <code>&gt; PLAY</code><br>
       <code>REWIND</code><br>
       <code>FORWARD</code><br>
@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-### // FEATURED PROJECTS
+<img src="./assets/headings/featured-projects.png" width="360" alt="// FEATURED PROJECTS">
 
 <table>
   <tr>
@@ -68,17 +68,31 @@
   </tr>
 </table>
 
-### // TECH STACK
+<img src="./assets/headings/tech-stack.png" width="240" alt="// TECH STACK">
 
-|  |  |
-| --- | --- |
-| Languages | Python &middot; TypeScript &middot; JavaScript &middot; SQL |
-| Cloud | AWS |
-| Infrastructure | Docker &middot; Linux &middot; PostgreSQL &middot; Git |
+<table width="100%">
+  <tr>
+    <td width="25%"><strong>Languages</strong></td>
+    <td width="75%">Python &middot; TypeScript &middot; JavaScript &middot; SQL</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Cloud</strong></td>
+    <td width="75%">AWS</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Infrastructure</strong></td>
+    <td width="75%">Docker &middot; Linux &middot; PostgreSQL &middot; Git</td>
+  </tr>
+</table>
 
-#### // NOW PLAYING
+<img src="./assets/headings/now-playing.png" width="270" alt="// NOW PLAYING">
 
 <!-- Replace YOUR-VERCEL-DOMAIN with your deployed Vercel domain. -->
 <a href="https://YOUR-VERCEL-DOMAIN.vercel.app/api/now-playing?open=1">
   <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/now-playing" width="450" alt="Now playing on Spotify">
 </a>
+
+<img
+  src="https://komarev.com/ghpvc/?username=OloaneShark&label=Profile%20views&color=ff3131&style=flat"
+  alt="Profile views"
+/>
