@@ -82,19 +82,19 @@
   <tr>
     <td width="22%" valign="middle"><strong>Languages</strong></td>
     <td width="78%" valign="middle">
-      Python &middot; TypeScript &middot; JavaScript &middot; SQL
+      Python &middot; TypeScript &middot; JavaScript &middot; SQL &middot; HTML/CSS &middot; GraphQL &middot; Bash
     </td>
   </tr>
   <tr>
     <td width="22%" valign="middle"><strong>Cloud</strong></td>
     <td width="78%" valign="middle">
-      AWS
+      AWS &middot; Terraform &middot; CI/CD (GitHub Actions) &middot; RabbitMQ
     </td>
   </tr>
   <tr>
     <td width="22%" valign="middle"><strong>Infrastructure</strong></td>
     <td width="78%" valign="middle">
-      Docker &middot; Linux &middot; PostgreSQL &middot; Git
+      Docker &middot; Linux &middot; PostgreSQL &middot; Git &middot; Nginx &middot; Redis &middot; Prometheus/Grafana
     </td>
   </tr>
 </table>
